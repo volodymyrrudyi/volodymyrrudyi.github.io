@@ -43,9 +43,9 @@ First of all one should know answers to two questions:
 
 It is not difficult, is it? Answer for the first question almost always includes three things: money, flexible schedule and mobility. So here are your benefits:
 
-* contractors always earn more than folks on-site
-* on remote positions it is possible to have a (relatively) flexible schedule. We’ll get back to it later.
-* while being a remote worker one is free to choose any place to work. Though some places are better than others.
+  * contractors always earn more than folks on-site
+  * on remote positions it is possible to have a (relatively) flexible schedule. We’ll get back to it later.
+  * while being a remote worker one is free to choose any place to work. Though some places are better than others.
 
 It’s very important to understand priorities. It’s not a coincidence that I’ve enumerated benefits exactly in this order.
 Reality is that flexible schedule and mobility are just side effects which sometimes can be sacrificed.
@@ -57,8 +57,9 @@ Trying to foolish someone will never give any benefits and can bring to disreput
 Now it’s time to determine why companies sometimes prefer remote employees. Answer is somewhat different: expertise, reducing expenses and mobility.
 
 What benefits does company expect  to get from a remote worker:
-* expertise — obviously remote worker should be skilled and experienced to be more attractive than on-site workers("why should I hire remote worker that is a source of additional risks and worse than my on-site workers”)
-* reducing expenses — contractors usually receive more money but are not  eligible for any benefits as insurance, health care, massages and cookies from the kitchen
+
+  * expertise — obviously remote worker should be skilled and experienced to be more attractive than on-site workers("why should I hire remote worker that is a source of additional risks and worse than my on-site workers”)
+  * reducing expenses — contractors usually receive more money but are not  eligible for any benefits as insurance, health care, massages and cookies from the kitchen
 
 Clearly expectations are bit different. Well, the first one is essential. You should be the best or be able to become the best. So prepare to work like mad on self-development constantly.
 Earning more money by the employee and reducing expenses by the employer are synonyms if we are talking about remote working.
@@ -78,10 +79,12 @@ Programming requires some time to get into so called "flow” state when person 
 To achieve a flow state 10-15 minutes usually needed and only few seconds of interruption will cause loose of this state.
 
 Here are ways that can protect from being interrupted during working:
-* explain to  surrounding that you are not available. No one can disturb you unless the problem can’t be postponed to the end of the working day. Though I don't have children yet, I know it is virtually impossible to explain to little children that father/mother is busy. Friends solve this problem by renting office.
-* limit access to a working area
-* turn off the sound of the phone
-* combine all methods from above
+
+  * explain to  surrounding that you are not available. No one can disturb you unless the problem can’t be postponed to the end of the working day. Though I don't have children yet, I know it is virtually impossible to explain to little children that father/mother is busy. Friends solve this problem by renting office.
+  * limit access to a working area
+  * turn off the sound of the phone
+  * combine all methods from above
+
 While these methods can seem rude at the first look, the only thing they can help people understand and respect your work.
 Another thing people around should understand is that working from home reduces the time on the road between work and home.
 
@@ -90,8 +93,9 @@ How not to become crazy?
 There are lots of comics and memes about remote workers. It is funny, but almost all of them contain a bit of truth.
 Remote work is not for everyone. If one like communicate with people while working, play ping-pong, PS3 or discuss political problems with co-workers on the kitchen they should know there is nothing close to it in a remote work.
 Almost all communication with co-workers is in written form or via audio calls. So possible problems:
-* lack of communication
-* staying in the same place for the whole day
+
+  * lack of communication
+  * staying in the same place for the whole day
 
 
 Both problems can be solved. First of all you should remember that communication can happen not only at work.
@@ -103,18 +107,20 @@ Besides it, new places are good for meeting new people.
 What are your sworn enemies?
 ===
 You should watch out of these(really insidious):
-* laziness
-* workaholism
-* social networks
-* cookies and sweets
+
+  * laziness
+  * workaholism
+  * social networks
+  * cookies and sweets
 
 How to use your benefits?
 ===
 Well, it is time to demonstrate some benefits of the remote work. Here are some use-cases:
-* it is possible to work in the early morning and take a break in the middle of the day. Spending some time on the fresh air when sun is shining is awesome. Believe me - I tried.
-* it is possible to "shift” your schedule in both directions and choose to finish earlier or to use morning for personal needs. E.g. I visit the gym in the morning or the late evening when it is not crowded
-* remote worker can change your workplace. From time to time(e.g. once a month or two), I visit other cities to see something new
-* now you have up to two hours of free time which you spent in your car or public transport.
+
+  * it is possible to work in the early morning and take a break in the middle of the day. Spending some time on the fresh air when sun is shining is awesome. Believe me &mdash; I tried.
+  * it is possible to "shift” your schedule in both directions and choose to finish earlier or to use morning for personal needs. E.g. I visit the gym in the morning or the late evening when it is not crowded
+  * remote worker can change your workplace. From time to time(e.g. once a month or two), I visit other cities to see something new
+  * now you have up to two hours of free time which you spent in your car or public transport.
 
 Conclusion
 ===
