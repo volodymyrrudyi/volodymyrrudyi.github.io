@@ -1,0 +1,119 @@
+---
+author: admin
+comments: true
+date: 2012-08-15 08:33:00+00:00
+layout: post
+slug: guadec-2012
+title: GUADEC 2012
+wordpress_id: 9
+categories:
+- GSoC
+tags:
+- gsoc
+---
+
+Hi everyone!
+Tomorrow I will leave La Coruna, Spain, so I think it's good time to write about [GUADEC](http://guadec.org/)'2012.
+
+First of all I'd like to thank GNOME Foundation and GSoC for sponsoring me. Also I want to thank PiTiVi and GStreamer for supporting me during all the event. And another one thanks goes to everyone who was attending this great event - it was a great pleasure to meet all of you folks!
+
+So how was it?
+
+<!-- more -->
+
+I'll start from the very beginning. I think at could be interesting for future interns to know how can you participate in such interesting thing like GUADEC.  This year I'm participating in GSoC program and working on the GES library([GStreamer project](http://gstreamer.freedesktop.org/)). And I was told(thanks goes to Thibault Saunier!) that I can attend GUADEC conference as my project connected with GNOME. So I  created and application for GNOME Travel Committee(but I sent it too late and I was told that **such applications have the lowest possible priority**, this **should be taken into account**). And after a week or so I received confirmation(special thanks goes to Google for additional sponsorship).
+
+
+After that I started to gather all necessary papers to get visa to Spain and it took only 6 days to get it(To get a visa I had to buy a ticket for a flight. Also travel committee booked me a hotel in La Coruna and sent me a scan of invitation signed by the dean of Faculty of Information technologies in the Coruna University). I was really surprised because I've read that in case with other countries it can take way more longer.
+
+I'll skip the details of my flights now :) It was rather uninteresting except I was having the same flight to London with part of Ukrainian Olympic Games team. They are really nice folks and it was really funny to be on flight with them.
+
+At the 26-th of July I reached La Coruna airport and took a taxi to a  hotel(Rialta Hotel). But without my luggage because it was sent on the next flight. Here are several photos of Rialta location:
+
+
+[![IMG_3203](http://farm8.staticflickr.com/7252/7680976450_c7fd52da06.jpg)](http://www.flickr.com/photos/rvolodymyr/7680976450/)
+
+
+
+
+Rock behind the hotel
+
+
+
+
+[![IMG_3547](http://farm9.staticflickr.com/8422/7680923414_661d3d6c61.jpg)](http://www.flickr.com/photos/rvolodymyr/7680923414/)
+
+
+
+
+10 minutes from hotel - La Coruna itself
+
+
+
+
+
+
+
+Then I went to the Coruna University to register at GUADEC and received package with badge and some instructions. Badges were really awesome because they contained a map of the city and all places that we've visited.
+
+
+
+
+
+
+
+
+
+
+[![IMG_2980](http://farm8.staticflickr.com/7265/7655306162_1c71beedba.jpg)](http://www.flickr.com/photos/rvolodymyr/7655306162/)
+
+
+
+
+Info desk - magicians of GUADEC that helped me and other interns all the time.
+
+
+
+
+
+
+
+[![IMG_3014](http://farm8.staticflickr.com/7106/7655520688_01354b914a.jpg)](http://www.flickr.com/photos/rvolodymyr/7655520688/)
+
+
+
+
+Jean-François Fortin Tam
+
+
+
+
+[![IMG_3004](http://farm9.staticflickr.com/8012/7655519072_0b96755216.jpg)](http://www.flickr.com/photos/rvolodymyr/7655519072/)
+
+
+
+
+Working area. Notice the candies in the plate on the right:)
+
+
+
+
+
+
+
+During GUADEC we had several parallel sections of talks. All talks were quite interesting but I preferred to attend everything connected with PiTiVi, GStreamer and Gobject. And I can definitely say that they were awesome! I really liked lightning talk of Jeff(aka nekohayo) about PiTiVi progress. You can see it right [here](http://pitivi.ecchi.ca/guadec-2012.webm).
+
+
+Another exciting thing were lightning talks by students(I've taken part in them too!). It was really interesting to hear about projects of other students, problems they solved and  what  difficulties they met while they were working on their projects. Besides it, many of us were attending such event for the first time(including me:) ) and we worried about talks for such large and professional audience. I must say it's a great experience!
+
+Actually there are many beautiful aspects  of visiting GUADEC and it will take days to tell about all of them :) Just imagine: You are working on something during hack fest and met some problem. Usually you can refer to docs or ask on IRC, but during GUADEC you also can also walk around and ask: "I need GObject/GStreamer/Etc hacker:)" and you'll find several developers which will be able to help, and everyone is so supportive and responsive. Or you can communicate with your mentor or someone from developers of the project you are participating in directly. **And it's fantastic**.
+
+I want to attend GUADEC next year and also wanted to say to everyone who's reading the post: You should attend GUADEC! You'll find new friends there, participation will give you lots of experience,  and will provide you  with tons of pleasant memories.
+
+Again, thanks to GNOME and Travel Committee for such a great opportunity!
+
+
+[![](http://3.bp.blogspot.com/-KkdabEGLa1Y/UCte4NRmKVI/AAAAAAAADT0/SUZBP4GpTCA/s1600/sponsored-badge-shadow.png)](http://3.bp.blogspot.com/-KkdabEGLa1Y/UCte4NRmKVI/AAAAAAAADT0/SUZBP4GpTCA/s1600/sponsored-badge-shadow.png)
+
+
+P.S. I've started writing this post almost two weeks ago and wanted to keep original beginning of the post. So by it you can make conclusion that even after two weeks I'm happy :)
