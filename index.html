@@ -4,11 +4,14 @@ layout: default
 
 <div class="container">
     {% for post in site.posts %}
-      <div class="row text-center">
+      <div class="row post-item">
         <h2 class="post-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <span class="post-meta label label-default">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <p class="post-excerpt">
+          {{ post.excerpt }}
+        </p>
       </div>
     {% endfor %}
 </div>
