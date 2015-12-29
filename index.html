@@ -2,20 +2,19 @@
 layout: default
 ---
 
-<div class="container">
-    {% for post in site.posts %}
-      <div class="row post-item">
-        <div class="col-xs-10 col-xs-offset-1">
-        <h2 class="post-title">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <span class="post-meta label label-default">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <p class="post-excerpt">
-          {{ post.excerpt }}
-        </p>
 
-        <a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
-      </div>
-    </div>
-    {% endfor %}
+{% for post in site.posts %}
+  <div class="row post-item">
+    <div class="col-xs-10 col-xs-offset-1">
+    <h2 class="post-title">
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <span class="post-meta label label-default">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <p class="post-excerpt">
+      {{ post.excerpt }}
+    </p>
+
+    <a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+  </div>
 </div>
+{% endfor %}
