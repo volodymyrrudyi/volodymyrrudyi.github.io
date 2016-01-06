@@ -143,7 +143,7 @@ All required translation can happen in several ways:
 
 # Component Development
 After implementing a few components for both libraries and dealing with components developed by
-Polymer and React I can say that from the development point of view, strengths of both libraries are turning into their weaknesses.
+Polymer and React communities,  I can say that from the development point of view strengths of both libraries sometimes are turning into their weaknesses.
 
 ## Polymer
 HTML nature of the components without any additional translation required, makes it very easy to work with components developed by someone else. Inside the component there is a clear separation between markup and JavaScript code.  On the other hand, sometimes components are "too HTML-ish". They can contain DOM manipulations directly in the code, styling right in the markup and look very imperative.
