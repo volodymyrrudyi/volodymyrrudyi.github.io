@@ -1,7 +1,7 @@
 ---
 author: volodymyr
 comments: true
-date: 2016-01-04 00:03:00+00:00
+date: 2016-01-06 00:03:00+00:00
 layout: post
 slug: polymer-vs-reactjs
 title: Polymer and React.js &mdash; Clash of Titans
