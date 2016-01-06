@@ -142,7 +142,7 @@ All required translation can happen in several ways:
 
 
 # Component Development
-After implementing a few components for both libraries and dealing with components developed by
+After developing components for both libraries and dealing with components developed by
 Polymer and React communities,  I can say that from the development point of view strengths of both libraries sometimes are turning into weaknesses.
 
 ## Polymer
