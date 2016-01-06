@@ -149,7 +149,7 @@ Polymer and React communities,  I can say that from the development point of vie
 HTML nature of the components without any additional translation required, makes it very easy to work with components developed by someone else. Inside the component there is a clear separation between markup and JavaScript code.  On the other hand, sometimes components are "too HTML-ish". They can contain DOM manipulations directly in the code, styling right in the markup and look very imperative.
 
 ## React
-While simplifying a lot of things, JSX can become very ugly, especially when dealing with repeating components that should be creating using **map()** or similar functions. Another issue with the translation process is that sometimes the new ES6 standard is not completely supported by any existing implementation, including Babel [or changes too often](/scripting%20languages/2015/12/28/babel-6-decorators.html). But I must admit, that usage of ES6 makes React.js components way more readable than Polymer elements written in ES5.
+While simplifying a lot of things, JSX can become very ugly, especially when dealing with repeating components that should be created using **map()** or similar functions. Another issue with the translation process is that sometimes the new ES6 standard is not completely supported by any existing implementation, including Babel [or changes too often](/scripting%20languages/2015/12/28/babel-6-decorators.html). But I must admit, that usage of ES6 makes React.js components way more readable than Polymer elements written in ES5.
 
 
 # Communities
