@@ -103,7 +103,7 @@ Here is a table with a comparison of used approaches:
   </tbody>
 </table>
 
-As you can see, libraries somehow differ. The best part of Polymer is that once Web Components standard is completely supported by all major browsers, it will get lots of goodies like shadow DOM, templates and HTML imports "for free". On the other hand, React.js allows to create **isomorphic** applications, meaning that components are being rendered on the server and in the browser in the same way. It's a very important feature that influences load time, SEO and performance in general. Besides it, React.js components are pretty similar to web components and most likely at some point there will be a way to distribute a React.js component as a web-component.
+As you can see, libraries are somewhat different. The best part of Polymer is that once Web Components standard is completely supported by all major browsers, it will get lots of goodies like shadow DOM, templates and HTML imports "for free". On the other hand, React.js allows to create **isomorphic** applications, meaning that components are being rendered on the server and in the browser in the same way. It's a very important feature that influences load time, SEO and performance in general. Besides it, React.js components are pretty similar to web components and most likely at some point there will be a way to distribute a React.js component as a web-component.
 
 # Installation
 
