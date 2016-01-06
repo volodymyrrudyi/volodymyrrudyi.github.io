@@ -25,7 +25,7 @@ In this post I'm describing pros and cons of both tools that are important for m
 **React.js** is the JavaScript library that allows to decompose UI into small reusable Components
 brought to us by Facebook.
 
-**Polymer** is the library to create reusable web-components created by Google.
+**Polymer** is the library to create reusable web-components developed by Google.
 
 As you can see, both libraries are maintained by world's biggest companies, so they are constantly being improved by the most talented engineers.
 
