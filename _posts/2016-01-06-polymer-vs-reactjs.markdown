@@ -160,5 +160,5 @@ React.js and Polymer are amazing libraries that can be used to build [awesome](h
 
 # Links
 
-* [Official ReactJS Website] (https://facebook.github.io/react/)
-* [Official Polymer Website] (https://www.polymer-project.org/1.0/)
+* [Official ReactJS Website](https://facebook.github.io/react/)
+* [Official Polymer Website](https://www.polymer-project.org/1.0/)
