@@ -183,11 +183,7 @@ So what should we do? The answer is: we must use a multiple properties observer:
     ],
 
     messageInfoUpdated: function(name, message){
-      if (this.name !== undefined){
-        this.set("_greeting", message + " " + name.toUpperCase());
-      } else {
-        this.set("_greeting", message + " NONAME");
-      }
+      this.set("_greeting", message + " " + name.toUpperCase());
     },
     ready: function() {
       this.textContent = this._greeting;
