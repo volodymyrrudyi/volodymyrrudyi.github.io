@@ -3,7 +3,7 @@ author: volodymyr
 comments: true
 date: 2016-01-09 00:03:00+00:00
 layout: post
-slug: polymer-vs-reactjs
+slug: polymer-mind-the-properties-init-order
 title: Polymer 1.0 &mdash; One Thing You Should Remember About Properties
 categories:
 - JavaScript
