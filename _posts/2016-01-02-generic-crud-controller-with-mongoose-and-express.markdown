@@ -3,7 +3,7 @@ author: volodymyr
 comments: true
 date: 2016-01-02 00:56:00+00:00
 layout: post
-slug: generic-crud-controller-with-express-and-mongoose
+slug: generic-crud-controller-with-mongoose-and-express
 title: Writing a generic CRUD controller using Mongoose and Express.js
 categories:
 - JavaScript
