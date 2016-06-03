@@ -1,7 +1,7 @@
 ---
 author: volodymyr
 comments: true
-date: 2016-05-28 00:03:00+00:00
+date: 2016-06-03 00:03:00+00:00
 layout: post
 slug: does-your-framework-provides-enough-isolation
 title: Does your client-side framework provide enough isolation?
