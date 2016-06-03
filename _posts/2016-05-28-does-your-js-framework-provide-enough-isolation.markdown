@@ -332,3 +332,5 @@ There are three view encapsulation strategies in Angular 2: *Emulated*, *Native*
 
 By default, Angular JS uses the **Emulated** view encapsulation to provide a basic
 isolation and avoid major performance and compatibility issues.
+
+# Isolation of ReactJS Components
