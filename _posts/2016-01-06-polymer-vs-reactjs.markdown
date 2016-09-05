@@ -71,7 +71,7 @@ Here is a table with a comparison of used approaches:
     </tr>
     <tr>
       <td>Shadow DOM</td>
-      <td class="text-center">Yes</td>
+      <td class="text-center">No</td>
       <td class="text-center">Yes</td>
     </tr>
     <tr>
