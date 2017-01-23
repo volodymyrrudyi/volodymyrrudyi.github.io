@@ -3,8 +3,8 @@ author: volodymyr
 comments: true
 date: 2017-01-18 00:03:00+00:00
 layout: post
-slug: setting-up-angularjs-environment-on-windows-10
-title: Setting up AngularJS development environment on Windows 10
+slug: setting-up-angularjs-environment-on-windows
+title: Setting up AngularJS development environment on Windows
 categories:
 - JavaScript
 tags:
