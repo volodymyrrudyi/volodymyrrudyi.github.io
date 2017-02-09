@@ -1,7 +1,7 @@
 ---
 author: volodymyr
 comments: true
-date: 2017-01-18 00:03:00+00:00
+date: 2017-02-08 00:03:00+00:00
 layout: post
 slug: benefits-of-aws-lambda
 title: Benefits of the AWS Lambda and the serverless approach
